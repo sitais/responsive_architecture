@@ -32,5 +32,5 @@ DeviceScreenType getDeviceType(MediaQueryData mediaQuery) {
     return DeviceScreenType.Mobile;
   }
 
-  return DeviceScreenType.Handset;
+  return DeviceScreenType.Device;
 }
